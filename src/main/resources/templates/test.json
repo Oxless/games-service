@@ -1,0 +1,19 @@
+{
+  "fio": "kakoe-to fio",
+  "age": 17,
+  "gender": "male",
+  "address": {
+    "city": "Moscow",
+    "street": "ulica"
+  },
+  "children": [
+    {
+      "name": "Vanya",
+      "age": 5
+    },
+    {
+      "name": "Dimon",
+      "age": 10
+    }
+  ]
+}
